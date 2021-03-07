@@ -1,0 +1,3 @@
+include ':app'
+include ':voltaxsdk'
+rootProject.name = "VoltaxDemo"

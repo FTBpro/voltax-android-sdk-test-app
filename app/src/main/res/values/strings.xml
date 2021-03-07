@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VoltaxDemo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="article_title">FIFA 21: Ultimate Team TOTY revealed</string>
+    <string name="article_subtitle">By Tom Gott\nJan 22, 2021, 6:00 PM GMT</string>
+    <string name="article_text">The waiting is over. After a few weeks of voting, the FIFA 21 Ultimate Team Team of the Year is finally here.
+
+        \n\nOver 10 million fans of the game voted from 185 countries, selecting 11 players who they felt performed better than anybody else on the planet during 2020. Lionel Messi is the star omission from the side, as is Neymar, but there are places for Robert Lewandowski, Bruno Fernandes and Kylian Mbappe.
+
+        \n\nThe player\'s final ratings have not yet been disclosed, but you can be assured that they will be awarded some of the craziest cards you\'re ever likely to see on FIFA 21.</string>
+
+</resources>
