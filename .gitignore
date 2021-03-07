@@ -1,0 +1,17 @@
+/.idea/misc.xml
+.gradle
+/local.properties
+local.properties
+*/.idea/workspace.xml
+/.idea/workspace.xml
+*/.idea/libraries
+/.idea/libraries
+.DS_Store
+*/.idea/caches/
+*/build
+/pulltorerfesh/build
+*/app/build/
+*/voltaxsdk/build/
+*.iml
+*/.idea/codeStyles/
+sample-app/.idea/
