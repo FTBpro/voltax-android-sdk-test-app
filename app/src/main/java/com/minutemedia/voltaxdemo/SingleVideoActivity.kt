@@ -12,5 +12,11 @@ class SingleVideoActivity : AppCompatActivity() {
         val mmVideoView = findViewById<MMVideoView>(R.id.mm_video_view)
 
         mmVideoView.load(this,"01dnemrsc8vhsc1y4t", "01ewfqp7dxa0egkh62")
+
+        // handle click on url
+        // if not implemented the url will be open in Custom Tabs by the SDK
+//        mmVideoView.onUrlClick {
+//            // Do something
+//        }
     }
 }
