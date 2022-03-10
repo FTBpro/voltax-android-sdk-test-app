@@ -58,7 +58,7 @@ class ArticleListAdapter(private val activity: Activity) : RecyclerView.Adapter<
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
         if (position == 2) {
             val mmVideoViewHolder: MMVideoViewHolder = holder as MMVideoViewHolder
-            mmVideoViewHolder.mmVideoView.load(this.activity, "01dnemrsc8vhsc1y4t", "01ewfqp7dxa0egkh62")
+            mmVideoViewHolder.mmVideoView.load(this.activity, "01fqtx7qpnayc5zbtw", "01ewfqp7dxa0egkh62")
 
             // handle click on url
             // if not implemented the url will be open in Custom Tabs by the SDK

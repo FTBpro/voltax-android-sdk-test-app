@@ -8,4 +8,29 @@
         android:id="@+id/mm_video_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/loaded_text"
+        android:layout_marginTop="20dp"
+        android:paddingHorizontal="20dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Not yet loaded" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/play_player_btn"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="Play Player"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/pause_player_btn"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="Pause Player"/>
 </LinearLayout>
